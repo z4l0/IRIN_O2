@@ -1,5 +1,5 @@
 # IRIN_O2
-## Repositorio utilizado en el trabajo obligatorio 2 de Introducción a la Robótica Inteligente: Robótica Evolutiva
+## Repositorio utilizado en el trabajo obligatorio 2 de Introducción a la Robótica Inteligente: Robótica Evolutiva, realizado por Gonzalo Jaraba y Lucía Cepedano.
 
 **Experimento 1**: fitness realizada a partir de la media de los valores de las baterías, generación de 5000. Se obseva que el robot realiza triángulos para pasar por las 3 luces. 
 
