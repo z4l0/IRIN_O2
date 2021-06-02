@@ -7,4 +7,4 @@
 
 **Experimento 2**: fitness realizada a partir de la multiplicación de los 3 valores de las baterías, sin media, generación de 5000. El resultado en cuanto a fitness es peor (~0.45), pero el comportamiento es más natural, realizando movimientos curvos para mantenerse cerca de las 3 luces.
 
-**Futuro Experimento 3**: fitness realizada a partir de la media geométrica: https://es.wikipedia.org/wiki/Media_geom%C3%A9trica. Generación de 5000. El resultado en cuanto a fitness es mejor que el caso anterior (~0.68).
+**Experimento 3**: fitness realizada a partir de la media geométrica: https://es.wikipedia.org/wiki/Media_geom%C3%A9trica. Generación de 5000. El resultado en cuanto a fitness es mejor que el caso anterior (~0.68). El robot realiza un recorrido similar al experimento 1 (en triángulo), pero de manera progresiva va curvando su recorrido al trazar las aristas de este mismo.
